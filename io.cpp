@@ -4,12 +4,16 @@ using namespace std;
 
 int main() {
 
-    string nombre;
+    string sustantivo;
+    string verbo;
 
-    cout << "Ingresa nombre de Heroe: ";
-    cin >> nombre;
+    cout << "Ingresa un sustantivo: ";
+    cin >> sustantivo;
 
-    cout << "Bienvenido, " << nombre << "!" << endl;
+    cout << "Ingresa un verbo: ";
+    cin >> verbo;
+
+    cout << "El " << sustantivo << " decicio " << verbo << " en la luna!";
 
     return 0;
 }
