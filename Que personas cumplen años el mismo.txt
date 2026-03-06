@@ -1,0 +1,15 @@
+Que personas cumplen años el mismo dia, y si no cuales son los mas cercanos?
+
+Seudocódigo:
+
+- Inicio.
+- Solicitar numero de personas.
+- Solicitar nombres.
+- Solicitar dia de cumpleaños.
+- Solicitar mes de cumpleaños.
+- Guardar los cumpleaños de todas las personas.
+- Comparar los cumpleaños.
+- Si 2 o mas personas cumplen años el mismo dia mostrar sus nombres.
+- Si no hay coincidencias calcular la diferencia entre los cumpleaños mas cercanos y mostrar sus nombres.
+- Fin.
+
